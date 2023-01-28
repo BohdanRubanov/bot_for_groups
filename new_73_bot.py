@@ -1,7 +1,7 @@
 import all_words
 import telebot 
 import random
-bot = telebot.TeleBot("5871931662:AAHDs_T94N2aJON8ahbaeHoXRWeggF2qQ-w")   
+bot = telebot.TeleBot("5877727820:AAEP7YxmtGyUBSh2clszWMcEP5Z1yPT1gug")   
 all_words_list = all_words.all_words_list1.split()
 all_words_list_bot = all_words.all_bot_words.split(",")
 b = []
